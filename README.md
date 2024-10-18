@@ -1,5 +1,5 @@
 
-# MajOrauto
+# MajorAuto
 
 Automation script bot for Maj*r
 
@@ -106,7 +106,7 @@ Here's how to use it on several operating systems:
 
 3. Clone this repository
    ```shell
-   git clone [https://github.com/Medhanye6/MajorAuto.git]
+   git clone https://github.com/Medhanye6/MajorAuto.git
    ```
 
 4. Enter the majtod folder
