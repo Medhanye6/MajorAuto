@@ -36,7 +36,7 @@ Follow this link to register: https://t.me/major/start?startapp=629438076
 
 If you like my work, you can support me through the links below:
 
-- If you want to send support in another form, you can contact me via Telegram. @medhanye6
+- If you want to send support in another form, you can contact me via [Telegram](https://t.me/tigraytechc). or @medhanye6
 
 # How to Use
 
