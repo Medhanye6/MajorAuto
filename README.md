@@ -106,12 +106,12 @@ Here's how to use it on several operating systems:
 
 3. Clone this repository
    ```shell
-   git clone https://github.com/akasakaid/majtod.git
+   git clone [https://github.com/Medhanye6/MajorAuto.git]
    ```
 
 4. Enter the majtod folder
    ```shell
-   cd majtod
+   cd MajorAuto
    ```
 
 5. Install the required libraries
@@ -138,12 +138,12 @@ Here's how to use it on several operating systems:
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/akasakaid/majtod.git
+   git clone https://github.com/Medhanye6/MajorAuto.git
    ```
 
 3. Enter the majtod folder
    ```shell
-   cd majtod
+   cd MajorAuto 
    ```
 
 4. Create a virtual environment and activate it.
@@ -174,12 +174,12 @@ Here's how to use it on several operating systems:
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/akasakaid/majtod.git
+   git clone https://github.com/Medhanye6/MajorAuto.git
    ```
 
 3. Enter the majtod folder
    ```shell
-   cd majtod
+   cd MajorAuto 
    ```
 
 4. Install the required libraries
